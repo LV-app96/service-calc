@@ -1,1 +1,1 @@
-{"name": "Polizeiarzt", "short_name": "Polizeiarzt", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#f2f2f7", "theme_color": "#1769d2", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
+{"name": "Service Calc", "short_name": "Service Calc", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#f2f2f7", "theme_color": "#1769d2", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
