@@ -10,3 +10,6 @@
 - Keep user input minimal and calculations traceable. Do not imply an external save succeeded without confirmation.
 - Before release, inspect changes for private data, run syntax and regression tests, and report actual results and untested cases. Test export and iPhone offline/update behavior when available.
 - Work on a separate branch and request review before merging into main. No secrets or personal data in PR descriptions.
+
+- Prefer concise labels, minimal visible text and progressive disclosure. Keep safety-critical and billing information accessible. Avoid duplicate status counters and unnecessary instructions.
+- The optional Numbers navigation button invokes a separate user-configured shortcut named `Numbers öffnen`; it must not send records or alter either export shortcut.
