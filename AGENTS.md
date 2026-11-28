@@ -13,3 +13,7 @@
 
 - Prefer concise labels, minimal visible text and progressive disclosure. Keep safety-critical and billing information accessible. Avoid duplicate status counters and unnecessary instructions.
 - The optional Numbers navigation button invokes a separate user-configured shortcut named `Numbers öffnen`; it must not send records or alter either export shortcut.
+
+- Classic layout is the default; preserve its established design except explicitly approved changes. Modern layout is optional and reversible. Use one shared calculation, form and export implementation.
+- Persist exactly one versioned draft locally, including per-person fields, time confirmation flags and conditional calculation inputs. Restore without automatic external submission. Never overwrite confirmed timestamps when updating dependent suggestions. Handle storage failures visibly. Keep the full liquidation form available and use the existing history confirmation workflow.
+- Test iPhone mini viewport, actual WebKit time controls, reload/background/airplane-mode restoration, multi-person drafts, midnight, layout switching and external shortcut handoff on device before relying on them.
